@@ -187,6 +187,7 @@
         0.2,
         0.25,
         0.3,
+        0.45,
         0.5
       ],
       "tuning_pattern_settings": {
@@ -239,7 +240,11 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      "pin_not_driven|1917700|1206500|26949438-1e70-4d12-8463-c9a1afabeae5|00000000-0000-0000-0000-000000000000|/6990ffb7-4abe-4df9-bce7-87822fc68e4c|/6990ffb7-4abe-4df9-bce7-87822fc68e4c|",
+      "pin_not_driven|1917700|1257300|be27488d-0f00-453c-ab4c-f28c0f0b88d1|00000000-0000-0000-0000-000000000000|/6990ffb7-4abe-4df9-bce7-87822fc68e4c|/6990ffb7-4abe-4df9-bce7-87822fc68e4c|",
+      "pin_not_driven|1917700|1282700|61d6294d-1407-487f-bb0f-8697fcc4108e|00000000-0000-0000-0000-000000000000|/6990ffb7-4abe-4df9-bce7-87822fc68e4c|/6990ffb7-4abe-4df9-bce7-87822fc68e4c|"
+    ],
     "meta": {
       "version": 0
     },
@@ -471,14 +476,14 @@
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.25,
+        "track_width": 0.45,
         "via_diameter": 0.8,
         "via_drill": 0.4,
         "wire_width": 6
       },
       {
         "bus_width": 6,
-        "clearance": 0.2,
+        "clearance": 0.3,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -589,11 +594,29 @@
           "label": "DNP",
           "name": "${DNP}",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "UST_ID",
+          "name": "UST_ID",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
-      "name": "Grouped By Value",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },
