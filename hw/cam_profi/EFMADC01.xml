@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/EFMADC01.kicad_sch</source>
-    <date>2025-02-17T00:18:35+0000</date>
+    <date>2025-02-20T07:43:10+0000</date>
     <tool>Eeschema 8.0.8+1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -26,15 +26,16 @@
   <components>
     <comp ref="C1">
       <value>100nF</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor</description>
       <fields>
-        <field name="UST_ID">5c70984812875079b91f8bf2</field>
-        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
+        <field name="UST_ID">6508260b462c6d9e720541f1</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
         <field name="Datasheet"/>
-        <field name="Description"/>
+        <field name="Description">Unpolarized capacitor</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bf2"/>
+      <property name="UST_ID" value="6508260b462c6d9e720541f1"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="EFMADC01.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
@@ -44,15 +45,16 @@
     </comp>
     <comp ref="C2">
       <value>100nF</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor</description>
       <fields>
-        <field name="UST_ID">5c70984812875079b91f8bf2</field>
-        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
+        <field name="UST_ID">6508260b462c6d9e720541f1</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
         <field name="Datasheet"/>
-        <field name="Description"/>
+        <field name="Description">Unpolarized capacitor</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bf2"/>
+      <property name="UST_ID" value="6508260b462c6d9e720541f1"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="EFMADC01.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
@@ -62,15 +64,16 @@
     </comp>
     <comp ref="C3">
       <value>100nF</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor</description>
       <fields>
-        <field name="UST_ID">5c70984812875079b91f8bf2</field>
-        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
+        <field name="UST_ID">6508260b462c6d9e720541f1</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
         <field name="Datasheet"/>
-        <field name="Description"/>
+        <field name="Description">Unpolarized capacitor</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bf2"/>
+      <property name="UST_ID" value="6508260b462c6d9e720541f1"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="EFMADC01.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
@@ -80,15 +83,16 @@
     </comp>
     <comp ref="C4">
       <value>1nF</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor</description>
       <fields>
-        <field name="UST_ID">5c70984812875079b91f8bec</field>
-        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
+        <field name="UST_ID">5c70984812875079b91f8ba6</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
         <field name="Datasheet"/>
-        <field name="Description"/>
+        <field name="Description">Unpolarized capacitor</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bec"/>
+      <property name="UST_ID" value="5c70984812875079b91f8ba6"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="EFMADC01.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
@@ -98,15 +102,16 @@
     </comp>
     <comp ref="C5">
       <value>100nF</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor</description>
       <fields>
-        <field name="UST_ID">5c70984812875079b91f8bf2</field>
-        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
+        <field name="UST_ID">5c70984712875079b91f8b4c</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
         <field name="Datasheet"/>
-        <field name="Description"/>
+        <field name="Description">Unpolarized capacitor</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bf2"/>
+      <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="EFMADC01.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
@@ -115,47 +120,52 @@
       <tstamps>9eb0e1db-c7c4-42dc-b463-186a586dba42</tstamps>
     </comp>
     <comp ref="C6">
-      <value>1uF</value>
-      <footprint>Mlab_L:FIR_0805</footprint>
-      <datasheet>http://www.murata.com/~/media/webrenewal/support/library/catalog/products/emc/emifil/c31e.ashx?la=en-gb</datasheet>
-      <fields>
-        <field name="UST_ID">5c70984412875079b91f880f</field>
-        <field name="Footprint">Mlab_L:FIR_0805</field>
-        <field name="Datasheet">http://www.murata.com/~/media/webrenewal/support/library/catalog/products/emc/emifil/c31e.ashx?la=en-gb</field>
-        <field name="Description"/>
-      </fields>
-      <libsource lib="PCRD06A-rescue" part="EMI_Filter_C-Device" description=""/>
-      <property name="UST_ID" value="5c70984412875079b91f880f"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="EFMADC01.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>6a5e4c47-6712-4088-8ed9-652b34125563</tstamps>
-    </comp>
-    <comp ref="C7">
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor</description>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8b4c</field>
         <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
         <field name="Datasheet"/>
-        <field name="Description"/>
+        <field name="Description">Unpolarized capacitor</field>
       </fields>
-      <libsource lib="ISM02A-rescue" part="C_Small-Device-ISM02A-rescue" description=""/>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="EFMADC01.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>6f24f33e-8e4f-47a2-ab02-744d62ee8d6e</tstamps>
+      <tstamps>1f634c35-d579-4225-a05c-e748209b4cd8</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8b4c</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="EFMADC01.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1067a5ef-9c75-4d10-ad9f-4f2e2b62616b</tstamps>
     </comp>
     <comp ref="C8">
       <value>10uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor</description>
       <fields>
         <field name="UST_ID">5c70984812875079b91f8bbe</field>
         <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
         <field name="Datasheet"/>
-        <field name="Description"/>
+        <field name="Description">Unpolarized capacitor</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984812875079b91f8bbe"/>
@@ -168,33 +178,35 @@
     </comp>
     <comp ref="C9">
       <value>10uF</value>
-      <footprint>Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor</description>
       <fields>
-        <field name="UST_ID">65089dd0462c6d9e720542b3</field>
-        <field name="Footprint">Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A</field>
+        <field name="UST_ID">5c70984812875079b91f8bbe</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
         <field name="Datasheet"/>
-        <field name="Description"/>
+        <field name="Description">Unpolarized capacitor</field>
       </fields>
-      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
-      <property name="UST_ID" value="65089dd0462c6d9e720542b3"/>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="UST_ID" value="5c70984812875079b91f8bbe"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="EFMADC01.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
-      <property name="ki_fp_filters" value="CP_*"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>659f951e-cc1a-425b-a020-21e41a64bd78</tstamps>
+      <tstamps>21d5ac6b-f968-425d-a484-e242eae75c9f</tstamps>
     </comp>
     <comp ref="C10">
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor</description>
       <fields>
-        <field name="UST_ID">5c70984812875079b91f8bf2</field>
+        <field name="UST_ID">5c70984712875079b91f8b4c</field>
         <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
         <field name="Datasheet"/>
-        <field name="Description"/>
+        <field name="Description">Unpolarized capacitor</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bf2"/>
+      <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="EFMADC01.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
@@ -205,11 +217,12 @@
     <comp ref="C11">
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor</description>
       <fields>
         <field name="UST_ID">6508260b462c6d9e720541f1</field>
         <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
         <field name="Datasheet"/>
-        <field name="Description"/>
+        <field name="Description">Unpolarized capacitor</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="6508260b462c6d9e720541f1"/>
@@ -223,14 +236,15 @@
     <comp ref="C12">
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor</description>
       <fields>
-        <field name="UST_ID">5c70984812875079b91f8bf2</field>
+        <field name="UST_ID">5c70984712875079b91f8b4c</field>
         <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
         <field name="Datasheet"/>
-        <field name="Description"/>
+        <field name="Description">Unpolarized capacitor</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bf2"/>
+      <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="EFMADC01.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
@@ -240,13 +254,14 @@
     </comp>
     <comp ref="D1">
       <value>UCLAMP3301H.TCT</value>
-      <footprint>Diode_SMD:D_SOD-523</footprint>
+      <footprint>Diode_SMD:D_SMB</footprint>
       <datasheet>https://www.st.com/resource/en/datasheet/sm6t.pdf</datasheet>
+      <description>600W unidirectional Transil Transient Voltage Suppressor, 12Vrwm, DO-214AA</description>
       <fields>
         <field name="UST_ID">612514fe1287500165a976f3</field>
-        <field name="Footprint">Diode_SMD:D_SOD-523</field>
+        <field name="Footprint">Diode_SMD:D_SMB</field>
         <field name="Datasheet">https://www.st.com/resource/en/datasheet/sm6t.pdf</field>
-        <field name="Description"/>
+        <field name="Description">600W unidirectional Transil Transient Voltage Suppressor, 12Vrwm, DO-214AA</field>
       </fields>
       <libsource lib="Diode" part="SM6T12A" description="600W unidirectional Transil Transient Voltage Suppressor, 12Vrwm, DO-214AA"/>
       <property name="UST_ID" value="612514fe1287500165a976f3"/>
@@ -260,27 +275,30 @@
     <comp ref="D2">
       <value>BZV55C-6,2V</value>
       <footprint>Diode_SMD:D_MiniMELF</footprint>
+      <description>Zener diode</description>
       <fields>
         <field name="UST_ID">604b0326128750769e5b0f93</field>
         <field name="Footprint">Diode_SMD:D_MiniMELF</field>
         <field name="Datasheet"/>
-        <field name="Description"/>
+        <field name="Description">Zener diode</field>
       </fields>
-      <libsource lib="ISM02A-rescue" part="D_ZENER-MLAB_D" description=""/>
+      <libsource lib="Device" part="D_Zener" description="Zener diode"/>
       <property name="UST_ID" value="604b0326128750769e5b0f93"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="EFMADC01.kicad_sch"/>
-      <property name="ki_fp_filters" value="D? SO* SM*"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>7252395e-8e98-4d50-a580-1eb782e26418</tstamps>
+      <tstamps>334389d6-18a0-4a47-815e-2adc2f9ea2d6</tstamps>
     </comp>
     <comp ref="FID1">
       <value>Fiducial</value>
       <footprint>Fiducial:Fiducial_1mm_Mask2mm</footprint>
+      <description>Fiducial Marker</description>
       <fields>
         <field name="Footprint">Fiducial:Fiducial_1mm_Mask2mm</field>
         <field name="Datasheet"/>
-        <field name="Description"/>
+        <field name="Description">Fiducial Marker</field>
       </fields>
       <libsource lib="Mechanical" part="Fiducial" description="Fiducial Marker"/>
       <property name="Sheetname" value=""/>
@@ -293,10 +311,11 @@
     <comp ref="FID2">
       <value>Fiducial</value>
       <footprint>Fiducial:Fiducial_1mm_Mask2mm</footprint>
+      <description>Fiducial Marker</description>
       <fields>
         <field name="Footprint">Fiducial:Fiducial_1mm_Mask2mm</field>
         <field name="Datasheet"/>
-        <field name="Description"/>
+        <field name="Description">Fiducial Marker</field>
       </fields>
       <libsource lib="Mechanical" part="Fiducial" description="Fiducial Marker"/>
       <property name="Sheetname" value=""/>
@@ -399,29 +418,30 @@
     <comp ref="J9">
       <value>MCX</value>
       <footprint>Connector_Coaxial:SMA_Amphenol_901-144_Vertical</footprint>
-      <datasheet> ~</datasheet>
+      <description>coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</description>
       <fields>
         <field name="UST_ID">5fa10cc512875025b39779f6</field>
         <field name="Footprint">Connector_Coaxial:SMA_Amphenol_901-144_Vertical</field>
-        <field name="Datasheet"> ~</field>
-        <field name="Description"/>
+        <field name="Datasheet"/>
+        <field name="Description">coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</field>
       </fields>
       <libsource lib="Connector" part="Conn_Coaxial" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
       <property name="UST_ID" value="5fa10cc512875025b39779f6"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="EFMADC01.kicad_sch"/>
-      <property name="ki_keywords" value="BNC SMA SMB SMC LEMO coaxial connector CINCH RCA"/>
-      <property name="ki_fp_filters" value="*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO*"/>
+      <property name="ki_keywords" value="BNC SMA SMB SMC LEMO coaxial connector CINCH RCA MCX MMCX U.FL UMRF"/>
+      <property name="ki_fp_filters" value="*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO* *UMRF* *MCX* *U.FL*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>46ee6beb-3db7-4de1-9e4f-ab04c77df04f</tstamps>
     </comp>
     <comp ref="JP1">
       <value>Jumper_2_Bridged</value>
       <footprint>NetTie:NetTie-2_SMD_Pad0.5mm</footprint>
+      <description>Net tie, 2 pins</description>
       <fields>
         <field name="Footprint">NetTie:NetTie-2_SMD_Pad0.5mm</field>
         <field name="Datasheet"/>
-        <field name="Description"/>
+        <field name="Description">Net tie, 2 pins</field>
       </fields>
       <libsource lib="Device" part="NetTie_2" description="Net tie, 2 pins"/>
       <property name="Sheetname" value=""/>
@@ -435,16 +455,15 @@
     <comp ref="M1">
       <value>RFShield_TwoPieces</value>
       <footprint>RF_Shielding:Laird_Technologies_BMI-S-204-F_32.00x32.00mm</footprint>
+      <description>Two-piece EMI RF shielding cabinet</description>
       <fields>
         <field name="UST_ID">5c72751c1287500b4e11301a</field>
-        <field name="UST_ID2">5c7275631287500b4e11302f</field>
         <field name="Footprint">RF_Shielding:Laird_Technologies_BMI-S-204-F_32.00x32.00mm</field>
         <field name="Datasheet"/>
-        <field name="Description"/>
+        <field name="Description">Two-piece EMI RF shielding cabinet</field>
       </fields>
       <libsource lib="Device" part="RFShield_TwoPieces" description="Two-piece EMI RF shielding cabinet"/>
       <property name="UST_ID" value="5c72751c1287500b4e11301a"/>
-      <property name="UST_ID2" value="5c7275631287500b4e11302f"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="EFMADC01.kicad_sch"/>
       <property name="ki_keywords" value="RF EMI shielding cabinet"/>
@@ -513,12 +532,13 @@
     </comp>
     <comp ref="R1">
       <value>10M</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor</description>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8b6d</field>
-        <field name="Footprint">Resistor_SMD:R_0603_1608Metric</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
         <field name="Datasheet"/>
-        <field name="Description"/>
+        <field name="Description">Resistor</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b6d"/>
@@ -531,12 +551,13 @@
     </comp>
     <comp ref="R2">
       <value>2k2</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor</description>
       <fields>
         <field name="UST_ID">5c70984512875079b91f895e</field>
-        <field name="Footprint">Resistor_SMD:R_0603_1608Metric</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
         <field name="Datasheet"/>
-        <field name="Description"/>
+        <field name="Description">Resistor</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f895e"/>
@@ -549,12 +570,13 @@
     </comp>
     <comp ref="R3">
       <value>10k</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor</description>
       <fields>
         <field name="UST_ID">5c70984512875079b91f8962</field>
-        <field name="Footprint">Resistor_SMD:R_0603_1608Metric</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
         <field name="Datasheet"/>
-        <field name="Description"/>
+        <field name="Description">Resistor</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="UST_ID" value="5c70984512875079b91f8962"/>
@@ -565,15 +587,92 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>446957a4-3a84-470b-98d5-90840b819a54</tstamps>
     </comp>
+    <comp ref="R4">
+      <value>33R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f8970</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="UST_ID" value="5c70984512875079b91f8970"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="EFMADC01.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>88f394e4-6d81-42a2-9656-03f3b8b45ab6</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>33R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f8970</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="UST_ID" value="5c70984512875079b91f8970"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="EFMADC01.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>af6ccc45-d6d5-4f9d-aa84-a98358815191</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>33R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f8970</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="UST_ID" value="5c70984512875079b91f8970"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="EFMADC01.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c57c7512-3cbc-4ef0-ad8a-e13c350df35c</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>33R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f8970</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="UST_ID" value="5c70984512875079b91f8970"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="EFMADC01.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>621cb345-768e-4d35-913f-b6642cad4f1b</tstamps>
+    </comp>
     <comp ref="U1">
       <value>ISL21080DIH312Z-TK  1V25</value>
       <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
       <datasheet>http://www.intersil.com/content/dam/Intersil/documents/fn75/fn7599.pdf</datasheet>
+      <description>2.0V 25μA Micropower Voltage Reference, SOT-23</description>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8b7a</field>
         <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
         <field name="Datasheet">http://www.intersil.com/content/dam/Intersil/documents/fn75/fn7599.pdf</field>
-        <field name="Description"/>
+        <field name="Description">2.0V 25μA Micropower Voltage Reference, SOT-23</field>
       </fields>
       <libsource lib="Reference_Voltage" part="ISL21070CIH320Z-TK" description="2.0V 25μA Micropower Voltage Reference, SOT-23"/>
       <property name="UST_ID" value="5c70984712875079b91f8b7a"/>
@@ -587,12 +686,13 @@
     <comp ref="U2">
       <value>OPA314</value>
       <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
-      <datasheet>https://www.ti.com/lit/ds/symlink/opa314-q1.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&amp;ts=1627026622034&amp;ref_url=https%253A%252F%252Fcz.mouser.com%252F</datasheet>
+      <datasheet>http://www.ti.com/lit/ds/symlink/opa330.pdf</datasheet>
+      <description>50μV V OS, 0.25μV/°C, 35μA CMOS OPERATIONAL AMPLIFIERS, Zerø-Drift Series, SOT</description>
       <fields>
         <field name="UST_ID">5c70984412875079b91f879a</field>
         <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
-        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/opa314-q1.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&amp;ts=1627026622034&amp;ref_url=https%253A%252F%252Fcz.mouser.com%252F</field>
-        <field name="Description"/>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/opa330.pdf</field>
+        <field name="Description">50μV V OS, 0.25μV/°C, 35μA CMOS OPERATIONAL AMPLIFIERS, Zerø-Drift Series, SOT</field>
       </fields>
       <libsource lib="Amplifier_Operational" part="OPA330xxDBV" description="50μV V OS, 0.25μV/°C, 35μA CMOS OPERATIONAL AMPLIFIERS, Zerø-Drift Series, SOT"/>
       <property name="UST_ID" value="5c70984412875079b91f879a"/>
@@ -606,11 +706,13 @@
     <comp ref="U3">
       <value>ISL21080CIH330Z-TK</value>
       <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.intersil.com/content/dam/Intersil/documents/fn75/fn7599.pdf</datasheet>
+      <description>2.0V 25μA Micropower Voltage Reference, SOT-23</description>
       <fields>
         <field name="UST_ID"/>
         <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
-        <field name="Datasheet"/>
-        <field name="Description"/>
+        <field name="Datasheet">http://www.intersil.com/content/dam/Intersil/documents/fn75/fn7599.pdf</field>
+        <field name="Description">2.0V 25μA Micropower Voltage Reference, SOT-23</field>
       </fields>
       <libsource lib="Reference_Voltage" part="ISL21070CIH320Z-TK" description="2.0V 25μA Micropower Voltage Reference, SOT-23"/>
       <property name="UST_ID" value=""/>
@@ -625,10 +727,11 @@
       <value>LTC1865-MS</value>
       <footprint>Package_SO:MSOP-10_3x3mm_P0.5mm</footprint>
       <datasheet>https://www.analog.com/media/en/technical-documentation/data-sheets/18645fb.pdf</datasheet>
+      <description>Dual channel 16-bit SAR Analog to Digital Converter, 5V supply, 150ksps, SPI interface</description>
       <fields>
         <field name="Footprint">Package_SO:MSOP-10_3x3mm_P0.5mm</field>
         <field name="Datasheet">https://www.analog.com/media/en/technical-documentation/data-sheets/18645fb.pdf</field>
-        <field name="Description"/>
+        <field name="Description">Dual channel 16-bit SAR Analog to Digital Converter, 5V supply, 150ksps, SPI interface</field>
       </fields>
       <libsource lib="Analog_ADC" part="LTC1865-MS" description="Dual channel 16-bit SAR Analog to Digital Converter, 5V supply, 150ksps, SPI interface"/>
       <property name="Sheetname" value=""/>
@@ -689,7 +792,7 @@
     </libpart>
     <libpart lib="Connector" part="Conn_Coaxial">
       <description>coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</description>
-      <docs> ~</docs>
+      <docs>~</docs>
       <footprints>
         <fp>*BNC*</fp>
         <fp>*SMA*</fp>
@@ -697,12 +800,15 @@
         <fp>*SMC*</fp>
         <fp>*Cinch*</fp>
         <fp>*LEMO*</fp>
+        <fp>*UMRF*</fp>
+        <fp>*MCX*</fp>
+        <fp>*U.FL*</fp>
       </footprints>
       <fields>
         <field name="Reference">J</field>
         <field name="Value">Conn_Coaxial</field>
         <field name="Footprint"/>
-        <field name="Datasheet"> ~</field>
+        <field name="Datasheet">~</field>
         <field name="Description">coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</field>
       </fields>
       <pins>
@@ -728,22 +834,25 @@
         <pin num="2" name="" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="Device" part="C_Polarized">
-      <description>Polarized capacitor</description>
+    <libpart lib="Device" part="D_Zener">
+      <description>Zener diode</description>
       <docs>~</docs>
       <footprints>
-        <fp>CP_*</fp>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
       </footprints>
       <fields>
-        <field name="Reference">C</field>
-        <field name="Value">C_Polarized</field>
+        <field name="Reference">D</field>
+        <field name="Value">D_Zener</field>
         <field name="Footprint"/>
         <field name="Datasheet">~</field>
-        <field name="Description">Polarized capacitor</field>
+        <field name="Description">Zener diode</field>
       </fields>
       <pins>
-        <pin num="1" name="" type="passive"/>
-        <pin num="2" name="" type="passive"/>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
       </pins>
     </libpart>
     <libpart lib="Device" part="NetTie_2">
@@ -812,40 +921,6 @@
       <pins>
         <pin num="1" name="A1" type="passive"/>
         <pin num="2" name="A2" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="ISM02A-rescue" part="C_Small-Device-ISM02A-rescue">
-      <footprints>
-        <fp>C_*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">C</field>
-        <field name="Value">C_Small-Device-ISM02A-rescue</field>
-        <field name="Footprint"/>
-        <field name="Datasheet"/>
-        <field name="Description"/>
-      </fields>
-      <pins>
-        <pin num="1" name="" type="passive"/>
-        <pin num="2" name="" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="ISM02A-rescue" part="D_ZENER-MLAB_D">
-      <footprints>
-        <fp>D?</fp>
-        <fp>SO*</fp>
-        <fp>SM*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">D</field>
-        <field name="Value">D_ZENER-MLAB_D</field>
-        <field name="Footprint"/>
-        <field name="Datasheet"/>
-        <field name="Description"/>
-      </fields>
-      <pins>
-        <pin num="1" name="K" type="passive"/>
-        <pin num="2" name="A" type="passive"/>
       </pins>
     </libpart>
     <libpart lib="MLAB_HEADER" part="HEADER_2x01">
@@ -920,20 +995,6 @@
         <field name="Description">Fiducial Marker</field>
       </fields>
     </libpart>
-    <libpart lib="PCRD06A-rescue" part="EMI_Filter_C-Device">
-      <fields>
-        <field name="Reference">C</field>
-        <field name="Value">EMI_Filter_C-Device</field>
-        <field name="Footprint"/>
-        <field name="Datasheet"/>
-        <field name="Description"/>
-      </fields>
-      <pins>
-        <pin num="1" name="1" type="passive"/>
-        <pin num="2" name="2" type="passive"/>
-        <pin num="3" name="3" type="passive"/>
-      </pins>
-    </libpart>
     <libpart lib="Reference_Voltage" part="ISL21070CIH320Z-TK">
       <description>2.0V 25μA Micropower Voltage Reference, SOT-23</description>
       <docs>http://www.intersil.com/content/dam/Intersil/documents/fn75/fn7599.pdf</docs>
@@ -978,12 +1039,7 @@
     </library>
   </libraries>
   <nets>
-    <net code="1" name="+3.3VA">
-      <node ref="C5" pin="2" pintype="passive"/>
-      <node ref="U1" pin="1" pinfunction="Vin" pintype="power_in"/>
-      <node ref="U2" pin="5" pinfunction="V+" pintype="power_in"/>
-    </net>
-    <net code="2" name="/REF_1V25">
+    <net code="1" name="/REF_1V25">
       <node ref="C1" pin="1" pintype="passive"/>
       <node ref="C3" pin="2" pintype="passive"/>
       <node ref="R1" pin="1" pintype="passive"/>
@@ -991,10 +1047,9 @@
       <node ref="U1" pin="2" pinfunction="Vout" pintype="power_out"/>
       <node ref="U4" pin="3" pinfunction="CH1" pintype="input"/>
     </net>
-    <net code="3" name="GND">
+    <net code="2" name="GND">
       <node ref="C10" pin="2" pintype="passive"/>
-      <node ref="C6" pin="2" pinfunction="2" pintype="passive"/>
-      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
       <node ref="C8" pin="2" pintype="passive"/>
       <node ref="C9" pin="2" pintype="passive"/>
       <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
@@ -1011,12 +1066,13 @@
       <node ref="M5" pin="1" pintype="input"/>
       <node ref="U4" pin="5" pinfunction="DGND" pintype="power_in"/>
     </net>
-    <net code="4" name="GNDA">
+    <net code="3" name="GNDA">
       <node ref="C1" pin="2" pintype="passive"/>
       <node ref="C11" pin="2" pintype="passive"/>
       <node ref="C12" pin="2" pintype="passive"/>
       <node ref="C3" pin="1" pintype="passive"/>
       <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
       <node ref="D1" pin="2" pinfunction="A2" pintype="passive"/>
       <node ref="JP1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U1" pin="3" pinfunction="GND" pintype="power_in"/>
@@ -1024,70 +1080,86 @@
       <node ref="U3" pin="3" pinfunction="GND" pintype="power_in"/>
       <node ref="U4" pin="4" pinfunction="AGND" pintype="power_in"/>
     </net>
-    <net code="5" name="Net-(D1-A1)">
+    <net code="4" name="Net-(D1-A1)">
       <node ref="C2" pin="2" pintype="passive"/>
       <node ref="D1" pin="1" pinfunction="A1" pintype="passive"/>
       <node ref="R1" pin="2" pintype="passive"/>
       <node ref="U2" pin="3" pinfunction="+" pintype="input"/>
     </net>
-    <net code="6" name="Net-(D2-K)">
-      <node ref="C6" pin="3" pinfunction="3" pintype="passive"/>
-      <node ref="C7" pin="1" pintype="passive"/>
-      <node ref="C8" pin="1" pintype="passive"/>
-      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="J1" pin="3" pintype="input"/>
-      <node ref="J1" pin="4" pintype="input"/>
+    <net code="5" name="Net-(J4-Pad1)">
+      <node ref="J4" pin="1" pintype="input"/>
+      <node ref="J4" pin="2" pintype="input"/>
+      <node ref="R4" pin="2" pintype="passive"/>
     </net>
-    <net code="7" name="Net-(J9-In)">
+    <net code="6" name="Net-(J5-Pad1)">
+      <node ref="J5" pin="1" pintype="input"/>
+      <node ref="J5" pin="2" pintype="input"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(J6-Pad1)">
+      <node ref="J6" pin="1" pintype="input"/>
+      <node ref="J6" pin="2" pintype="input"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(J7-Pad1)">
+      <node ref="J7" pin="1" pintype="input"/>
+      <node ref="J7" pin="2" pintype="input"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(J9-In)">
       <node ref="C2" pin="1" pintype="passive"/>
       <node ref="J9" pin="1" pinfunction="In" pintype="passive"/>
     </net>
-    <net code="8" name="Net-(U2--)">
+    <net code="10" name="Net-(U2--)">
       <node ref="C4" pin="1" pintype="passive"/>
       <node ref="R2" pin="2" pintype="passive"/>
       <node ref="R3" pin="1" pintype="passive"/>
       <node ref="U2" pin="4" pinfunction="-" pintype="input"/>
     </net>
-    <net code="9" name="Net-(U3-Vout)">
+    <net code="11" name="Net-(U3-Vout)">
       <node ref="J2" pin="2" pintype="input"/>
       <node ref="U3" pin="2" pinfunction="Vout" pintype="power_out"/>
     </net>
-    <net code="10" name="Net-(U4-CH0)">
+    <net code="12" name="Net-(U4-CH0)">
       <node ref="C4" pin="2" pintype="passive"/>
       <node ref="R3" pin="2" pintype="passive"/>
       <node ref="U2" pin="1" pintype="output"/>
       <node ref="U4" pin="2" pinfunction="CH0" pintype="input"/>
     </net>
-    <net code="11" name="Net-(U4-CONV)">
-      <node ref="J7" pin="1" pintype="input"/>
-      <node ref="J7" pin="2" pintype="input"/>
+    <net code="13" name="Net-(U4-CONV)">
+      <node ref="R7" pin="1" pintype="passive"/>
       <node ref="U4" pin="1" pinfunction="CONV" pintype="input"/>
     </net>
-    <net code="12" name="Net-(U4-SCK)">
-      <node ref="J4" pin="1" pintype="input"/>
-      <node ref="J4" pin="2" pintype="input"/>
+    <net code="14" name="Net-(U4-SCK)">
+      <node ref="R4" pin="1" pintype="passive"/>
       <node ref="U4" pin="8" pinfunction="SCK" pintype="input"/>
     </net>
-    <net code="13" name="Net-(U4-SDI)">
-      <node ref="J6" pin="1" pintype="input"/>
-      <node ref="J6" pin="2" pintype="input"/>
+    <net code="15" name="Net-(U4-SDI)">
+      <node ref="R6" pin="1" pintype="passive"/>
       <node ref="U4" pin="6" pinfunction="SDI" pintype="input"/>
     </net>
-    <net code="14" name="Net-(U4-SDO)">
-      <node ref="J5" pin="1" pintype="input"/>
-      <node ref="J5" pin="2" pintype="input"/>
+    <net code="16" name="Net-(U4-SDO)">
+      <node ref="R5" pin="1" pintype="passive"/>
       <node ref="U4" pin="7" pinfunction="SDO" pintype="output"/>
     </net>
-    <net code="15" name="Net-(U4-V_{REF})">
+    <net code="17" name="Net-(U4-V_{REF})">
       <node ref="C11" pin="1" pintype="passive"/>
       <node ref="J2" pin="1" pintype="input"/>
       <node ref="U4" pin="10" pinfunction="V_{REF}" pintype="input"/>
     </net>
-    <net code="16" name="VCC">
+    <net code="18" name="VCC">
       <node ref="C10" pin="1" pintype="passive"/>
       <node ref="C12" pin="1" pintype="passive"/>
-      <node ref="C6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
       <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="3" pintype="input"/>
+      <node ref="J1" pin="4" pintype="input"/>
+      <node ref="U1" pin="1" pinfunction="Vin" pintype="power_in"/>
+      <node ref="U2" pin="5" pinfunction="V+" pintype="power_in"/>
       <node ref="U3" pin="1" pinfunction="Vin" pintype="power_in"/>
       <node ref="U4" pin="9" pinfunction="V_{CC}" pintype="power_in"/>
     </net>

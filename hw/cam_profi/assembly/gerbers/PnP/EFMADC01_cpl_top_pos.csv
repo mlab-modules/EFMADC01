@@ -1,6 +1,6 @@
 Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "J1","3.3-5V","Straight_2x03",58.6740,20.0660,0.0000,top
-"J2","HEADER_2x01","Straight_2x01",45.4660,34.2900,0.0000,top
+"J2","HEADER_2x01","Straight_2x01",41.1480,33.0200,90.0000,top
 "J4","HEADER_2x01_PARALLEL","Straight_2x01",58.6740,29.4640,180.0000,top
 "J5","HEADER_2x01_PARALLEL","Straight_2x01",58.6740,32.0040,180.0000,top
 "J6","HEADER_2x01_PARALLEL","Straight_2x01",58.6740,34.5440,180.0000,top
