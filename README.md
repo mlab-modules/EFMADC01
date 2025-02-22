@@ -1,11 +1,11 @@
 # EFMADC01 - Electric Field Mill ADC Module
 
-The **EFMADC01** module is designed to provide an **analog front-end** and **ADC conversion** for **electric field mill** experiments. It processes analog signals from the field mill electrodes and converts them into a digital data for further processing.
+The **EFMADC01** module is designed to provide an **analog front-end** and **ADC conversion** for [Electric Field Mill sensor](https://github.com/UniversalScientificTechnologies/THUNDERMILL01) development and experiments. It processes analog signals from the field mill electrodes and converts them into digital data for further processing.
 
+![EFMADC01 top](/doc/gen/img/EFMADC01-top.png)
 
 ![EFMADC01 bottom](/doc/gen/img/EFMADC01-bottom.png)
 
-![EFMADC01 top](/doc/gen/img/EFMADC01-top.png)
 
 
 ## Features
@@ -14,7 +14,7 @@ The **EFMADC01** module is designed to provide an **analog front-end** and **ADC
 - **Low-Noise Analog Front End**: Incorporates **OPA314** operational amplifiers for signal conditioning.
 - **Precision and stable Voltage Reference**: Includes a **1.25V reference** for accurate ADC operation.
 - **Flexible Power Supply**: Supports **3.3V to 5V** operation.
-- **RF Shielding**: Equipped with shielding for reducing external interference.
+- **RF Shielding**: Equipped with shielding to reduce external interference.
 - **MCX Connector Input**: Enables high-quality signal connection.
 
 ## Functional Description
@@ -23,7 +23,7 @@ The **EFMADC01** module consists of three main blocks:
 
 1. **Analog Front End (AFE)**:
    - Uses **OPA314** operational amplifiers for signal buffering and amplification.
-   - High-impedance resistor (10MΩ) allow direct signal acquisition from the field mill sensor.
+   - High-impedance resistor (10MΩ) allows direct signal acquisition from the field mill sensor electrodes.
 
 2. **ADC Conversion**:
    - **LTC1865-MS** ADC provides **16-bit resolution** with **250ksps sampling rate**.
@@ -50,7 +50,7 @@ The **EFMADC01** module is primarily used in electric field mill experiments to 
 
 ## Schematic
 
-For detailed circuit information, refer to the [EFMADC01 schematic](/doc/gen/EFMADC01-schematic.pdf) in the documentation.
+For detailed circuit information, please take a look at the [EFMADC01 schematic](/doc/gen/EFMADC01-schematic.pdf) in the documentation.
 
 
 
