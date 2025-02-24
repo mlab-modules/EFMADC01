@@ -1,11 +1,10 @@
 description: Electric field mill ADC with AFE
 github_branch: EFMADC01A
-github_branches:
-- MODUL01A
 github_description: Electric field mill ADC with AFE
 github_repo: EFMADC01
 github_url: https://github.com/mlab-modules/EFMADC01
 homepage: false
+image_title: doc/gen/img/EFMADC01-top.png
 images:
 - doc/gen/img/EFMADC01-bottom.png
 - doc/gen/img/EFMADC01-top.png
