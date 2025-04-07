@@ -9,7 +9,7 @@ BRDOUT: 5 7036 4923
 NETS: 18
 1 GNDA
 2 Net-(D1-A1)
-3 /REF_1V25
+3 /REF
 4 Net-(J9-In)
 5 Net-(U2--)
 6 Net-(J4-Pad1)

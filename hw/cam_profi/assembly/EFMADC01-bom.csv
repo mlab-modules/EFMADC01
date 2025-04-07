@@ -13,7 +13,7 @@ Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet
 12,Resistor,R,R2,2k2,R_0805_2012Metric,1,~,5c70984512875079b91f895e
 13,Resistor,R,R3,10k,R_0805_2012Metric,1,~,5c70984512875079b91f8962
 14,Resistor,R,R1,10M,R_0805_2012Metric,1,~,5c70984712875079b91f8b6d
-15,"2.0V 25μA Micropower Voltage Reference, SOT-23",ISL21070CIH320Z-TK,U3,ISL21080CIH330Z-TK,SOT-23,1,http://www.intersil.com/content/dam/Intersil/documents/fn75/fn7599.pdf,
-16,"2.0V 25μA Micropower Voltage Reference, SOT-23",ISL21070CIH320Z-TK,U1,ISL21080DIH312Z-TK  1V25,SOT-23,1,http://www.intersil.com/content/dam/Intersil/documents/fn75/fn7599.pdf,5c70984712875079b91f8b7a
-17,"Dual channel 16-bit SAR Analog to Digital Converter, 5V supply, 150ksps, SPI interface",LTC1865-MS,U4,LTC1865-MS,MSOP-10_3x3mm_P0.5mm,1,https://www.analog.com/media/en/technical-documentation/data-sheets/18645fb.pdf,
+15,"1.5V 25μA Micropower Voltage Reference, SOT-23",ISL21070CIH320Z-TK,U1,ISL21080CIH315ZT,SOT-23,1,http://www.intersil.com/content/dam/Intersil/documents/fn75/fn7599.pdf,5c70984712875079b91f8b0a
+16,"2.0V 25μA Micropower Voltage Reference, SOT-23",ISL21070CIH320Z-TK,U3,ISL21080CIH330Z-TK,SOT-23,1,http://www.intersil.com/content/dam/Intersil/documents/fn75/fn7599.pdf,67d36d64ee7fc534862c3ebc
+17,"Dual channel 16-bit SAR Analog to Digital Converter, 5V supply, 150ksps, SPI interface",LTC1865-MS,U4,LTC1865-MS,MSOP-10_3x3mm_P0.5mm,1,https://www.analog.com/media/en/technical-documentation/data-sheets/18645fb.pdf,651eae84462c6d9e7205573b
 18,"50μV V OS, 0.25μV/°C, 35μA CMOS OPERATIONAL AMPLIFIERS, Zerø-Drift Series, SOT",OPA330xxDBV,U2,OPA314,SOT-23-5,1,http://www.ti.com/lit/ds/symlink/opa330.pdf,5c70984412875079b91f879a

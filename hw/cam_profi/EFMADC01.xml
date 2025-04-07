@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/EFMADC01.kicad_sch</source>
-    <date>2025-02-22T21:44:10+0000</date>
+    <date>2025-04-07T07:28:01+0000</date>
     <tool>Eeschema 8.0.8+1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -664,18 +664,18 @@
       <tstamps>621cb345-768e-4d35-913f-b6642cad4f1b</tstamps>
     </comp>
     <comp ref="U1">
-      <value>ISL21080DIH312Z-TK  1V25</value>
+      <value>ISL21080CIH315ZT</value>
       <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
       <datasheet>http://www.intersil.com/content/dam/Intersil/documents/fn75/fn7599.pdf</datasheet>
-      <description>2.0V 25μA Micropower Voltage Reference, SOT-23</description>
+      <description>1.5V 25μA Micropower Voltage Reference, SOT-23</description>
       <fields>
-        <field name="UST_ID">5c70984712875079b91f8b7a</field>
+        <field name="UST_ID">5c70984712875079b91f8b0a</field>
         <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
         <field name="Datasheet">http://www.intersil.com/content/dam/Intersil/documents/fn75/fn7599.pdf</field>
-        <field name="Description">2.0V 25μA Micropower Voltage Reference, SOT-23</field>
+        <field name="Description">1.5V 25μA Micropower Voltage Reference, SOT-23</field>
       </fields>
       <libsource lib="Reference_Voltage" part="ISL21070CIH320Z-TK" description="2.0V 25μA Micropower Voltage Reference, SOT-23"/>
-      <property name="UST_ID" value="5c70984712875079b91f8b7a"/>
+      <property name="UST_ID" value="5c70984712875079b91f8b0a"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="EFMADC01.kicad_sch"/>
       <property name="ki_keywords" value="Micropower Voltage Reference 2.0V"/>
@@ -709,13 +709,13 @@
       <datasheet>http://www.intersil.com/content/dam/Intersil/documents/fn75/fn7599.pdf</datasheet>
       <description>2.0V 25μA Micropower Voltage Reference, SOT-23</description>
       <fields>
-        <field name="UST_ID"/>
+        <field name="UST_ID">67d36d64ee7fc534862c3ebc</field>
         <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
         <field name="Datasheet">http://www.intersil.com/content/dam/Intersil/documents/fn75/fn7599.pdf</field>
         <field name="Description">2.0V 25μA Micropower Voltage Reference, SOT-23</field>
       </fields>
       <libsource lib="Reference_Voltage" part="ISL21070CIH320Z-TK" description="2.0V 25μA Micropower Voltage Reference, SOT-23"/>
-      <property name="UST_ID" value=""/>
+      <property name="UST_ID" value="67d36d64ee7fc534862c3ebc"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="EFMADC01.kicad_sch"/>
       <property name="ki_keywords" value="Micropower Voltage Reference 2.0V"/>
@@ -729,11 +729,13 @@
       <datasheet>https://www.analog.com/media/en/technical-documentation/data-sheets/18645fb.pdf</datasheet>
       <description>Dual channel 16-bit SAR Analog to Digital Converter, 5V supply, 150ksps, SPI interface</description>
       <fields>
+        <field name="UST_ID">651eae84462c6d9e7205573b</field>
         <field name="Footprint">Package_SO:MSOP-10_3x3mm_P0.5mm</field>
         <field name="Datasheet">https://www.analog.com/media/en/technical-documentation/data-sheets/18645fb.pdf</field>
         <field name="Description">Dual channel 16-bit SAR Analog to Digital Converter, 5V supply, 150ksps, SPI interface</field>
       </fields>
       <libsource lib="Analog_ADC" part="LTC1865-MS" description="Dual channel 16-bit SAR Analog to Digital Converter, 5V supply, 150ksps, SPI interface"/>
+      <property name="UST_ID" value="651eae84462c6d9e7205573b"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="EFMADC01.kicad_sch"/>
       <property name="ki_keywords" value="adc 2ch"/>
@@ -1039,7 +1041,7 @@
     </library>
   </libraries>
   <nets>
-    <net code="1" name="/REF_1V25">
+    <net code="1" name="/REF">
       <node ref="C1" pin="1" pintype="passive"/>
       <node ref="C3" pin="2" pintype="passive"/>
       <node ref="R1" pin="1" pintype="passive"/>
