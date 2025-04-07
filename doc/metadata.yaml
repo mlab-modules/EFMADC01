@@ -8,11 +8,11 @@ image_title: doc/gen/img/EFMADC01-top.png
 images:
 - doc/gen/img/EFMADC01-bottom.png
 - doc/gen/img/EFMADC01-top.png
-- hw/cam_profi/assembly/EFMADC01-assembly_page_02.svg
 - hw/cam_profi/assembly/EFMADC01-assembly_page_01.svg
+- hw/cam_profi/assembly/EFMADC01-assembly_page_02.svg
 - doc/gen/EFMADC01-schematic.svg
-- doc/gen/img/EFMADC01-bottom.svg
 - doc/gen/img/EFMADC01-top.svg
+- doc/gen/img/EFMADC01-bottom.svg
 issues: 2
 mark: 50
 mod_ibom: hw/cam_profi/EFMADC01-ibom.html
@@ -20,4 +20,4 @@ mod_scheme: doc/gen/EFMADC01-schematic.pdf
 status: 2
 tags: []
 title: EFMADC01
-updated: '2025-02-24T18:13:14.073289+00:00'
+updated: '2025-04-07T07:26:34.115676+00:00'
