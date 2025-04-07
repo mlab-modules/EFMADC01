@@ -4202,7 +4202,7 @@
 		)
 		(uuid "f78607a5-13e5-4e99-92b9-57548e34a32e")
 	)
-	(label "REF_1V25"
+	(label "REF"
 		(at 91.44 106.68 180)
 		(effects
 			(font
@@ -4212,7 +4212,7 @@
 		)
 		(uuid "28681e60-dfa2-4ab2-9299-ae522d943a18")
 	)
-	(label "REF_1V25"
+	(label "REF"
 		(at 148.59 128.27 180)
 		(effects
 			(font
@@ -4222,7 +4222,7 @@
 		)
 		(uuid "32f6475e-51b5-457f-9422-6248eb46948d")
 	)
-	(label "REF_1V25"
+	(label "REF"
 		(at 109.22 160.02 180)
 		(effects
 			(font
@@ -4232,7 +4232,7 @@
 		)
 		(uuid "723ac148-94d5-4fb4-8e5b-a337c517f879")
 	)
-	(label "REF_1V25"
+	(label "REF"
 		(at 60.96 49.53 0)
 		(effects
 			(font
@@ -8396,7 +8396,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "ISL21080DIH312Z-TK  1V25"
+		(property "Value" "ISL21080CIH315ZT"
 			(at 41.91 40.64 90)
 			(effects
 				(font
@@ -8425,7 +8425,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "2.0V 25μA Micropower Voltage Reference, SOT-23"
+		(property "Description" "1.5V 25μA Micropower Voltage Reference, SOT-23"
 			(at 48.26 49.53 0)
 			(effects
 				(font
@@ -8434,7 +8434,7 @@
 				(hide yes)
 			)
 		)
-		(property "UST_ID" "5c70984712875079b91f8b7a"
+		(property "UST_ID" "5c70984712875079b91f8b0a"
 			(at 48.26 49.53 0)
 			(effects
 				(font
@@ -8593,7 +8593,7 @@
 				(hide yes)
 			)
 		)
-		(property "UST_ID" ""
+		(property "UST_ID" "67d36d64ee7fc534862c3ebc"
 			(at 157.48 71.12 0)
 			(effects
 				(font
@@ -9142,6 +9142,15 @@
 			)
 		)
 		(property "Description" "Dual channel 16-bit SAR Analog to Digital Converter, 5V supply, 150ksps, SPI interface"
+			(at 172.72 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "UST_ID" "651eae84462c6d9e7205573b"
 			(at 172.72 125.73 0)
 			(effects
 				(font
